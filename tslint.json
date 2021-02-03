@@ -1,0 +1,14 @@
+{
+  "extends": ["tslint:recommended", "tslint-config-prettier"],
+  "rules": {
+    "no-console": false,
+    "one-variable-per-declaration": false,
+    "only-arrow-functions": false,
+    "no-shadowed-variable": false
+  },
+  "jsRules": {
+    "no-console": false,
+    "one-variable-per-declaration": false,
+    "no-shadowed-variable": false
+  }
+}
